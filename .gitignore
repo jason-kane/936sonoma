@@ -11,8 +11,10 @@ __pycache__/
 env/
 build/
 develop-eggs/
-dist/
 downloads/
+documentation/
+PhotoSwipe/
+test/
 eggs/
 .eggs/
 lib/
